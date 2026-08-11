@@ -66,3 +66,6 @@ vim.opt.laststatus = 3
 vim.opt.statusline = "%f  %{mode()} %l:%c"
 -- set esc keybind to jj
 vim.keymap.set('i', 'jj', '<Esc>', { desc = 'Exit Insert mode' })
+
+
+
